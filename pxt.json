@@ -1,6 +1,6 @@
 {
     "name": "pxt-motionkit",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Das MotionKit ohne die Funkblöcke um Bluetooth einladen zu können.",
     "dependencies": {
         "core": "*"
