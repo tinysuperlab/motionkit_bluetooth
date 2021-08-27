@@ -1,15 +1,14 @@
 {
     "name": "pxt-motionkit",
     "version": "0.0.0",
-    "description": "",
+    "description": "Das MotionKit ohne die Funkblöcke um Bluetooth einladen zu können.",
     "dependencies": {
         "core": "*",
         "radio": "*"
     },
     "files": [
         "README.md",
-        "main.blocks",
-        "main.ts"
+        "motionkit.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -18,5 +17,5 @@
     "supportedTargets": [
         "calliopemini"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
