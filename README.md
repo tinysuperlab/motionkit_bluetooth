@@ -16,7 +16,7 @@ Um dieses Repository in MakeCode zu bearbeiten.
 * klicke auf **Importieren** und dann auf **Importiere URL**
 * füge **https://github.com/tinysuperlab/motionkit_bluetooth** ein und klicke auf Importieren
 
-## Licence
+## License
 MIT
 
 #### Metadaten (verwendet für Suche, Rendering)
